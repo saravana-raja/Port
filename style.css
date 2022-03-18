@@ -1,0 +1,97 @@
+.navbar {
+    width: 100%;
+    background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+    overflow: auto;
+  }
+  
+  /* Navigation links */
+  .navbar .navbt {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+  }
+  
+  /* Add a background color on mouse-over */
+  .navbar .navbt:hover {
+    background-color: #f00fec;
+  }
+  
+  /* Style the current/active link */
+  .navbar .navbt.active {
+    background-color: #04AA6D;
+  }
+  
+  /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+  @media screen and (max-width: 500px) {
+    .navbar .navbt {
+      float: none;
+      display: block;
+      width: 100%;
+      text-align: left; /* If you want the text to be left-aligned on small screens */
+    }
+  }
+
+  .experience{
+    background-color: #0cebeb; /* fallback for old browsers */ background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+  
+
+
+    .con {
+      background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+    }
+
+    .back {
+      background-color: aliceblue;
+
+      
+    }
+
+    .banner {
+      background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+      justify-content: stretch;
+  }
+  
+  .bannerimg {
+      width: 150px;
+      border-radius: 50px;
+      display: block;
+      margin: auto;
+  }
+  
+  .banner p {
+      color: black;
+      display: block;
+  }
+
+  .skillcard {
+    display: block;
+    width: 75px;
+    padding-top: 25px;
+  }
+
+  .skillpad {
+    padding-top: 25px;
+  }
+
+  .projpad {
+    padding-top: 25px;
+  padding-bottom: 25px;
+  }
+
+  .cardbg {
+    background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+  }
+
+  .conpad {
+    padding-top: 25px;
+    border-top: 25px;
+  }
