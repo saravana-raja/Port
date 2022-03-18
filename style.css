@@ -1,6 +1,14 @@
 .navbar {
     width: 100%;
-    background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+    background-color: hsla(167, 68%, 73%, 1);
+
+    background: linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#8DE9D5", endColorstr="#32C4C0", GradientType=1 );
     overflow: auto;
   }
   
@@ -46,7 +54,15 @@
 
 
     .con {
-      background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+      background-color: hsla(167, 68%, 73%, 1);
+
+    background: linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#8DE9D5", endColorstr="#32C4C0", GradientType=1 );
     }
 
     .back {
@@ -56,7 +72,15 @@
     }
 
     .banner {
-      background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+      background-color:hsla(167, 68%, 73%, 1);
+
+      background: linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+      
+      background: -moz-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+      
+      background: -webkit-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+      
+      filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#8DE9D5", endColorstr="#32C4C0", GradientType=1 );
       justify-content: stretch;
   }
   
@@ -88,7 +112,15 @@
   }
 
   .cardbg {
-    background-color: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 );
+    background-color: hsla(167, 68%, 73%, 1);
+
+    background: linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(167, 68%, 73%, 1) 0%, hsla(178, 59%, 48%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#8DE9D5", endColorstr="#32C4C0", GradientType=1 );
   }
 
   .conpad {
